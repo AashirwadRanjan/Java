@@ -8,9 +8,9 @@ class transpose{
         };
         System.out.println("The matrix is:");
 
-        for(int i=0;i<arr.length;i++){
-            for(int j=0;j<arr[0].length;j++){
-                System.out.print(arr[i][j]+" ");
+        for(int a[]:arr){
+            forint b:a)
+                System.out.print(b+" ");
             }
             System.out.println("");
         }
